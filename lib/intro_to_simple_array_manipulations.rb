@@ -3,7 +3,7 @@ def using_concat(arr1,arr2)
 end
 
 def using_insert(arr,ele)
-arr.insert(ele.to_i,'hi')
+arr.insert(3,ele)
 end
 
 def using_uniq(arr)
